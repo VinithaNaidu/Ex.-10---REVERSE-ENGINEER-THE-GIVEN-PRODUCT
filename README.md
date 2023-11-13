@@ -36,8 +36,9 @@
 ### Output:
 ![244918811-1c606e12-0e4d-4703-b86d-463bd2ca9dd4](https://github.com/Thirukaalathessvarar-S/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/121166390/ecbeed11-2e6f-4a0c-a6a6-bc1fc818d6b4)
 
-### Name: Thirukaalathessvarar S
-### Register Number: 212222230161
+### Name: D. VINITHA NAIDU
+### Register Number: 212222230175
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
+
