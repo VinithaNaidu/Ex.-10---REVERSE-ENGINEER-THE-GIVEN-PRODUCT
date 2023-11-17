@@ -1,6 +1,6 @@
 # Ex. 10 - REVERSE ENGINEER THE GIVEN PRODUCT
 
-### DATE: 
+### DATE: 31.10.2023
 
 ## AIM: 
 ### To reverse engineering the product and prototyping the same in 3D printer.
@@ -31,14 +31,14 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
-![244918802-b63378dc-224c-47ab-9261-948618450067](https://github.com/Thirukaalathessvarar-S/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/121166390/4b6ab7e5-8648-4f1f-aa6d-4a3d849ecabb)
+![img1](https://github.com/ShanmathiShanmugam/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/121243595/1bd8fae1-b6c0-4a5c-a8e9-8cacb1ef5fbe)
 
 ### Output:
-![244918811-1c606e12-0e4d-4703-b86d-463bd2ca9dd4](https://github.com/Thirukaalathessvarar-S/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/121166390/ecbeed11-2e6f-4a0c-a6a6-bc1fc818d6b4)
+![Screenshot 2023-11-13 225819](https://github.com/ShanmathiShanmugam/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/121243595/a6f695f6-a140-426a-ab54-9ddabdbd41aa)
 
-### Name: D. VINITHA NAIDU
+
+### Name: D . Vinitha Naidu
 ### Register Number: 212222230175
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
-
